@@ -39,6 +39,6 @@ Jika Anda ingin berkontribusi pada proyek ini, harap ikuti langkah-langkah berik
 
 Jika Anda merasa proyek ini bermanfaat, pertimbangkan untuk memberikan dukungan melalui donasi.
 
-[![Donasi]](https://nyawer.co/dowerarts)https://nyawer.co/dowerarts)
+[![Donasi]][(https://nyawer.co/dowerarts)https://nyawer.co/dowerarts)]
 
 
