@@ -95,8 +95,9 @@ function verifyOtp(nohp, code) {
     const code = readlineSync.question('Code?? : ');
 
     const registerAccount = await verifyOtp(nohp, code);
-    if (registerAccount.datat.token) {
+    if (registerAccount.data.token) {
         console.log(chalk.yellow(`    Successfully register account`))
+        fs.appendFileSync("tokenTomoro.txt", `${registerAccount.data.token}\n`);
     } else {
         console.log(chalk.yellow(`    Failurer verify account`))
     }
