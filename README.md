@@ -39,6 +39,6 @@ Jika Anda ingin berkontribusi pada proyek ini, harap ikuti langkah-langkah berik
 
 Jika Anda merasa proyek ini bermanfaat, pertimbangkan untuk memberikan dukungan melalui donasi.
 
-[![Donasi]([https://png.pngtree.com/png-clipart/20220429/original/pngtree-open-donation-design-element-png-image_7585801.png](https://png.pngtree.com/png-clipart/20220429/original/pngtree-open-donation-design-element-png-image_7585801.png))]([https://link-donasi-anda](https://nyawer.co/dowerarts)https://nyawer.co/dowerarts)
+[![Donasi]]([https://link-donasi-anda](https://nyawer.co/dowerarts)https://nyawer.co/dowerarts)
 
 
