@@ -2,9 +2,6 @@
 
 Apa sih tomoro coffee? yaitu salah satu cafe untuk pembelian coffee. dikarenakan di tomoro coffe ada event yaitu pembuatan akun baru akan mendapatkan harga 9k untuk all produk large. alhasil ku buatkan nya ^_^
 
-[![Build Status](link-status-build)](link-status-build)
-[![License](link-license)](link-license)
-
 ## Alat
 
 
@@ -42,6 +39,6 @@ Jika Anda ingin berkontribusi pada proyek ini, harap ikuti langkah-langkah berik
 
 Jika Anda merasa proyek ini bermanfaat, pertimbangkan untuk memberikan dukungan melalui donasi.
 
-[![Donasi](donate-button.png)]([https://link-donasi-anda](https://nyawer.co/dowerarts)https://nyawer.co/dowerarts)
+[![Donasi]([https://png.pngtree.com/png-clipart/20220429/original/pngtree-open-donation-design-element-png-image_7585801.png](https://png.pngtree.com/png-clipart/20220429/original/pngtree-open-donation-design-element-png-image_7585801.png))]([https://link-donasi-anda](https://nyawer.co/dowerarts)https://nyawer.co/dowerarts)
 
 
